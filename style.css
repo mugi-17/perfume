@@ -23,7 +23,6 @@ ul{
 }
 li:hover{
     color: rgb(218, 17, 17);
-
     
 }
 
@@ -54,4 +53,9 @@ input{
 }
 .para{
     padding: 20px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
